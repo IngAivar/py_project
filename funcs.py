@@ -1,7 +1,14 @@
 
 
-def two_in_a_road():
+def sum_of_two():
     num = 10
     num_1 = 55
 
-    summ = sum(num, num_1)
+    return num + num_1
+
+
+def diff_of_two():
+    num = 10
+    num_1 = 55
+
+    return num - num_1
